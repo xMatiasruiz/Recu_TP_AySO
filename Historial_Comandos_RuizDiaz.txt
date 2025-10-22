@@ -1,0 +1,250 @@
+git clone https://github.com/sofiasartori/UTN-FRA_SO_Examenes
+cd UTN-FRA_SO_Examenes
+./script_Precondicion.sh
+chmod +x script_Precondicion.sh
+./script_Precondicion.sh
+source ~/.bashrc
+history -a
+cd~
+git clone https://github.com/xMatiasruiz/Recu_TP_AySO.git
+cd Recu_TP_AySO
+vagrant@ubuntu-focal:~/UTN-FRA_SO_Examenes/Recu_TP_AySO$ ^C
+ls
+ls
+cd ~/UTN-FRA_SO_Examenes/Recu_TP_AySO
+ls
+nanols
+.Nj    eeli zz     
+ls
+cd ~/UTN-FRA_SO_Examenes
+ls
+cd ~/UTN-FRA_SO_Examenes/Recu_TP_AySO
+ls
+nano README.md
+ls
+reedo:zomiio  fdsafdadñ
+nano README.md
+ls
+sssassskgdd RRAD
+llls
+sssasasgggggjfsglg D.Es
+ls
+~UTN-FRA_SO_Examenes
+cd ~/UTN-FRA_SO_Examenes
+ls
+cd ~/UTN-FRA_SO_Examenes/Recu_TP_AySO
+ls
+touch Punto_A.sh
+chmod +x Punto_A.sh
+git add Punto_A.sh
+git commit -m "archivo a" 
+git config --global user.name "Matias Ruiz Diaz" 
+git config --global user.email "zmadee13@gmail.com"
+git add Punto_A.sh
+git commit -m "archivo" a
+git commit -m "archivo a"
+git push origin main
+ls
+nano README.md
+git add ^^
+git add README.md
+git commit -m "Mis datos" 
+git push origin main
+l
+ls
+~/UTN-FRA_SO_Examenes
+cd ~/UTN-FRA_SO_Examenes
+ls
+cd ~/UTN-FRA_SO_Examenes
+ls
+chmod +x script_Precondicion.sh
+./script_Precondicion.sh
+source ~/.bashrc && history -a
+cd
+pwd
+whoami
+sudo mkdir -p /datos/{textos/{libros,revistas},videos/{peliculas,series}}
+sudo apt update&&install tree 
+tree
+sudo apt install tree
+tree . 
+cd
+ls
+cd ~/UTN-FRA_SO_Examenes
+tree
+ls
+cd ~/UTN-FRA_SO_Examenes/Recu_TP_AySO
+ls
+cd ~/UTN-FRA_SO_Examenes/Recu_TP_AySO/Punto_A.sh
+cd /
+pwd
+sudo mkdir -p /datos/{textos/{libros,revistas},videos/{peliculas,series}}
+sudo tree /datos
+pwd
+cd ~UTN-FRA_SO_Examenes/Recu_TP_AySO
+ls
+sudo tree /datos
+cd ~
+ls
+pwd
+cd UTN-FRA_SO_Examenes/Recu_TP_AySO
+ls
+cat Punto_A.sh
+nano Punto_A.sh
+sudo bash ~/UTN-FRA_SO_Examenes/Recu_TP_AySO/Punto_A.sh
+sudo tree /datos
+git add Punto_A.sh
+git commit -m "Punto A realizado"
+git push origin main
+ls 
+pwd
+sudo groupadd p1c1_2024_g1
+sudo useradd -m -s /bin/bash -G p1c1_2024_g1 p1c1_2024_u1
+echo "p1c1_2024_u1:clave1" | sudo chpasswd
+sudo mkdir -p /datos
+sudo chown p1c1_2024_u1:p1c1_2024_g1 /datos
+sudo chmod 750 /datos
+sudo -u p1c1_2024_u1 sh -c 'whoami' > /datos/validar1.txt'
+ls -ld
+ls -ld /datos
+ls -l /datos/validar1.txt
+sudo cat /datos/validar1.txt
+sudo rm /datos/validar1.txt
+ls
+sudo groupadd p1c1_2024_g1
+sudo -u p1c1_2024_u1 sh -c 'whoami > /datos/validar1.txt'
+ls -ld /datos
+ls -l /datos/validar1.txt
+sudi cat /datos/validar1.txt
+sudo cat /datos/validar1.txt
+cat > ~/Recu_TP_AySO/Punto_B.sh <<'EOF'
+sudo groupadd p1c1_2024_g1
+sudo useradd -m -s /bin/bash -G p1c1_2024_g1 p1c1_2024_u1
+echo "p1c1_2024_u1:clave1" | sudo chpasswd
+sudo mkdir -p /datos 
+sudo chown p1c1_2024_u1:p1c1_2024_g1 /datos
+sudo chmod 750 /datos
+sudo -u p1c1_2024_u1 sh -c 'whoami > /datos/validar1.txt'
+EOF
+
+ls
+cd ~/UTN-FRA_SO_Examenes
+ls
+cd ~/UTN-FRA_SO_Examenes/Recu_TP_AySO
+ls
+nano Punto_
+nano Punto_B.sh
+chmod +x Punto_B.sh
+sudo rm 
+sudo rm -rf /datos
+sudo bash Punto_B.sh
+git add Punto_B.sh
+git commit -m "Punto B resuelto"
+git push origin main 
+ls
+sudo groupadd p1c1_2024_Todos
+sudo useradd -m -s /bin/bash -g p1c1_2024_Todos p1c1_2024_u2
+echo "p1c1_2024_u2:clave1" | sudo chpasswd
+sudo usermod -aG p1c1_2024_Todos p1c1_2024_u1
+sudo chgrp -R p1c1_2024_Todos /datos
+sudo chmod -R g+rwX /datos
+sudo chmod o+rx /datos
+sudo find /datos -type f -exec chmod o-r {} \;
+sudo -u p1c1_2024_u2 sh -c 'id >> /datos/validar1.txt'
+echo "== /datos =="
+ls -l /datos
+echo "== validar1.txt contenido =="
+sudo cat /datos/validar1.txt
+ls
+nano Punto_C.sh
+chmod +x Punto_C.sh
+sudo bash Punto_C.sh
+ls
+nano Punto_C.sh
+chmod +x Punto_C.sh
+sudo bash Punto_C.sh
+cd ~
+pwd
+mkdir -p Ejercicio_D/{rx,tx}
+mkdir -p Ejercicio_D/rx/{lote_{1..20},extras_{1..100}} Ejercicio_D/tx/{lote_{1..20}}
+tree Ejercicio_D/ --noreport | pr -T -s' ' -w 80 --column 4 
+ls
+cd ~/UTN-FRA_SO_Examenes/Recu_TP_AySO
+ls
+nano Punto_D.sh
+chmod +x Punto_D.sh
+bash Punto_D.sh
+tree ~Ejercicio_D/ --noreport | pr -T -s' ' -w 80 --column 4 
+tree ~/Ejercicio_D/ --noreport | pr -T -s' ' -w 80 --column 4 
+bash Punto_D.sh
+git add Punto_D.sh
+git commit -m "Punto D resuelto"
+git push origin main
+ls
+git add Punto_C.sh
+git commit -m "Punto C resuelto"
+git push origin main
+cd ~
+pwd
+mkdir -p Punto_E
+grep -i 'MemoriaTotal:' /proc/meminfo > Punto_E/Filtro_basico.txt
+grep -m1 'model name' /proc/cpuinfo >> Punto_E/Filtro_basico.txt
+grep -m1 'cpu Mhz' /proc/cpuinfo >> Punto_E/Filtro_basico.txt
+cat Punto_E/Filtro_basico.txt
+grep -i 'memtotal:' /proc/meminfo > Punto_E/Filtro_basico.txt
+cat Punto_E/Filtro_basico.txt
+grep -i 'memtotal:' /proc/meminfo > Punto_E/Filtro_basico.txt
+grep -m1 'model name' /proc/cpuinfo >> Punto_E/Filtro_basico.txt
+grep -m1 'cpu Mhz' /proc/cpuinfo >> Punto_E/Filtro_basico.txt
+cat Punto_E/Filtro_basico.txt
+grep -m1 'cpu Mhz' /proc/cpuinfo >> Punto_E/Filtro_basico.txt
+cat Punto_E/Filtro_basico.txt
+grep -m1 'cpu MHz' /proc/cpuinfo >> Punto_E/Filtro_basico.txt
+cat Punto_E/Filtro_basico.txt
+ls
+cd ~/UTN-FRA_SO_Examenes/Recu_TP_AySO
+ls
+nano Punto_E.sh
+chmod +x Punto_E.sh
+./Punto_E.sh
+git add Punto_E.sh
+git commit -m "Punto E resuelto"
+git push origin main
+cd ~
+pwd
+mkdir -p ~/Punto_F && echo "Mi ip publica es: $(curl -s ifconfig.me)" > ~/Punto_F/Filtro_Avanzado.txt && grep -m1 "model name" /proc/cpuinfo | awk -F: '{print "CPU Modelo:" $2}' >> ~/Punto_F/Filtro_Avanzado.txt && grep -m1 "cpu MHz" /proc/cpuinfo | awk -F: '{print "Frecuencia:" $2}' >> ~/Punto_F/Filtro_Avanzado.txt
+ls
+bash Punto_F
+cat Punto_f
+cat Punto_F
+mkdir -p ~/Punto_F && echo "Mi ip publica es: $(curl -s ifconfig.me)" > ~/Punto_F/Filtro_Avanzado.txt && grep -m1 "model name" /proc/cpuinfo | awk -F: '{print "CPU Modelo:" $2}' >> ~/Punto_F/Filtro_Avanzado.txt && grep -m1 "cpu MHz" /proc/cpuinfo | awk -F: '{print "Frecuencia:" $2}' >> ~/Punto_F/Filtro_Avanzado.txt
+ls
+cat ~/Punto_F/Filtro_Avanzado.txt
+ls
+cd ~/UTN-FRA_SO_Examenes/Repo_TP_Examenes
+cd ~/UTN-FRA_SO_Examenes
+ls
+cd ~/UTN-FRA_SO_Examenes/Recu_TP_AySO
+ls
+nano Punto_F.sh
+chmod +x Punto_F.sh
+./Punto_F.sh
+cat ~/Punto_F/Filtro_Avanzado.txt
+git add Punto_F.sh
+git commit -m "Punto_F Resuelto"
+git push origin main
+ls
+nano Punto_G.sh
+chmod +x Punto_G.sh
+./Punto_G.sh
+cat ~/Historial_Comandos.txt
+nano ~/Punto_G
+ls
+nano ~/Punto_G.sh
+ls
+rm -f Punto_G.sh
+nano Historial_Comandos_RuizDiaz.sh
+chmod +x Historial_Comandos_RuizDiaz.sh
+cat ~/UTN-FRA_SO_Examenes/Recu_TP_AySO/Historial_Comandos_Ruiz.txt
+ls
+cat ~/Historial_Comandos_RuizDiaz.txt
